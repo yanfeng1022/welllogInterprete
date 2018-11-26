@@ -1,0 +1,46 @@
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\logInterpret.exe.config
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\logInterpret.exe
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\logInterpret.pdb
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.csproj.ResolveComReference.cache
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.Form1.resources
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.Properties.Resources.resources
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.csproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.exe
+D:\visual studio 2013\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.pdb
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.dll.config
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.MachineLearning.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.MachineLearning.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\AForge.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\AForge.Imaging.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\AForge.Math.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\AForge.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\AForge.Imaging.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\AForge.Math.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.Math.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.Statistics.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.Math.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.Statistics.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.Controls.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\ZedGraph.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\Accord.Controls.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\ZedGraph.xml
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\de\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\es\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\fr\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\hu\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\it\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\ja\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\pt\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\ru\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\sk\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\sv\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\tr\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\visual studio 2013\Projects\logInterpret\logInterpret\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VisualStudio2017\Projects\logInterpret\logInterpret\bin\Debug\logInterpret.exe.config
+D:\VisualStudio2017\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.csproj.ResolveComReference.cache
+D:\VisualStudio2017\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.exe
+D:\VisualStudio2017\Projects\logInterpret\logInterpret\obj\Debug\logInterpret.pdb
